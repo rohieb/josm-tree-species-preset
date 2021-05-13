@@ -1,0 +1,451 @@
+<?xml version="1.0"?>
+<presets version="2.7.0" xmlns="http://josm.openstreetmap.de/tagging-preset-1.0">
+<group name="Tree species" icon="natural_tree_24020.png">
+
+<chunk id="common_keys">
+    <text key="height" text="Height (meters)" />
+    <text key="circumference" text="Circumference (meters)" />
+    <text key="diameter" text="Diameter (millimeters)" />
+    <text key="diameter_crown" text="Crown diameter (meters)" />
+    <check key="protected" text="Protected" disable_off="true" />
+    <combo key="denotation" text="Denotation" editable="false" values_sort="true">
+        <list_entry value="agricultural" short_description="Agricultural" />
+        <list_entry value="avenue" short_description="Avenue" />
+        <list_entry value="landmark" short_description="Landmark" />
+        <list_entry value="natural_monument" short_description="Natural monument" />
+        <list_entry value="urban" short_description="Urban" />
+    </combo>
+</chunk>
+
+<chunk id="dioecious">
+    <combo key="sex" text="Sex" editable="false" values_sort="true">
+        <list_entry value="female" />
+        <list_entry value="male" />
+    </combo>
+</chunk>
+
+<item name="Gewöhnliche Rosskastanie (Aesculus hippocastanum)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Aesculus hippocastanum" />
+    <key key="species:de" value="Gewöhnliche Rosskastanie" />
+    <key key="species:wikidata" value="Q26899" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Feld-Ahorn (Acer campestre)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer campestre" />
+    <key key="species:de" value="Feld-Ahorn" />
+    <key key="species:wikidata" value="Q158785" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Eschen-Ahorn (Acer negundo)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer negundo" />
+    <key key="species:de" value="Eschen-Ahorn" />
+    <key key="species:wikidata" value="Q161166" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Spitz-Ahorn (Acer platanoides)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer platanoides" />
+    <key key="species:de" value="Spitz-Ahorn" />
+    <key key="species:wikidata" value="Q26745" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Kugel-Ahorn (Acer platanoides 'Globosum')" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer platanoides 'Globosum'" />
+    <key key="species:de" value="Kugel-Ahorn" />
+    <key key="species:wikidata" value="Q9577526" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Berg-Ahorn (Acer pseudoplatanus)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer pseudoplatanus" />
+    <key key="species:de" value="Berg-Ahorn" />
+    <key key="species:wikidata" value="Q156944" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Silber-Ahorn (Acer saccharinum)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Acer saccharinum" />
+    <key key="species:de" value="Silber-Ahorn" />
+    <key key="species:wikidata" value="Q158301" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Hänge-Birke (Betula pendula)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Betula pendula" />
+    <key key="species:de" value="Hänge-Birke" />
+    <key key="species:wikidata" value="Q156895" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Edelkastanie (Castanea sativa)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Castanea sativa" />
+    <key key="species:de" value="Edelkastanie" />
+    <key key="species:wikidata" value="Q22699" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Gewöhnlicher Trompetenbaum (Catalpa bignonioides)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Catalpa bignonioides" />
+    <key key="species:de" value="Gewöhnlicher Trompetenbaum" />
+    <key key="species:wikidata" value="Q163831" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Glattblättriger Zürgelbaum (Celtis laevigata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Celtis laevigata" />
+    <key key="species:de" value="Glattblättriger Zürgelbaum" />
+    <key key="species:wikidata" value="Q1529852" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Baum-Hasel (Corylus colurna)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Corylus colurna" />
+    <key key="species:de" value="Baum-Hasel" />
+    <key key="species:wikidata" value="Q148939" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Echter Rotdorn (Crataegus laevigata 'Paul's Scarlet')" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Crataegus laevigata 'Paul's Scarlet'" />
+    <key key="species:de" value="Echter Rotdorn" />
+    <key key="species:wikidata" value="Q1281102" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Lederblättriger Weißdorn (Crataegus × lavallei)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Crataegus × lavallei" />
+    <key key="species:de" value="Lederblättriger Weißdorn" />
+    <key key="species:wikidata" value="Q1693676" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Rot-Buche (Fagus sylvatica)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Fagus sylvatica" />
+    <key key="species:de" value="Rot-Buche" />
+    <key key="species:wikidata" value="Q146149" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Hänge-Buche (Fagus sylvatica f. pendula)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Fagus sylvatica f. pendula" />
+    <key key="species:de" value="Hänge-Buche" />
+    <key key="species:wikidata" value="Q1642256" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Blut-Buche (Fagus sylvatica f. purpurea)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Fagus sylvatica f. purpurea" />
+    <key key="species:de" value="Blut-Buche" />
+    <key key="species:wikidata" value="Q886511" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Esche (Fraxinus sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Fraxinus" />
+    <key key="genus:de" value="Esche" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Ginkgo (Ginkgo biloba)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Ginkgo biloba" />
+    <key key="species:de" value="Ginkgo" />
+    <key key="species:wikidata" value="Q43284" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Amerikanische Gleditschie (Gleditsia triacanthos)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Gleditsia triacanthos" />
+    <key key="species:de" value="Amerikanische Gleditschie" />
+    <key key="species:wikidata" value="Q157650" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Echte Walnuss (Juglans regia)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Juglans regia" />
+    <key key="species:de" value="Echte Walnuss" />
+    <key key="species:wikidata" value="Q46871" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Europäische Lärche (Larix decidua)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Larix decidua" />
+    <key key="species:de" value="Europäische Lärche" />
+    <key key="species:wikidata" value="Q146048" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="needleleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Amerikanischer Amberbaum (Liquidambar styraciflua)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Liquidambar styraciflua" />
+    <key key="species:de" value="Amerikanischer Amberbaum" />
+    <key key="species:wikidata" value="Q469652" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Amerikanischer Tulpenbaum (Liriodendron tulipifera)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Liriodendron tulipifera" />
+    <key key="species:de" value="Amerikanischer Tulpenbaum" />
+    <key key="species:wikidata" value="Q158783" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Apfel (Malus sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Malus" />
+    <key key="genus:de" value="Apfel" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Ahornblättrige Platane (Platanus × hispanica)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Platanus × hispanica" />
+    <key key="species:de" value="Ahornblättrige Platane" />
+    <key key="species:wikidata" value="Q161374" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Pappel (Populus sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Populus" />
+    <key key="genus:de" value="Pappel" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Silber-Pappel (Populus alba)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Populus alba" />
+    <key key="species:de" value="Silber-Pappel" />
+    <key key="species:wikidata" value="Q146269" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Kirsche (Prunus sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Prunus" />
+    <key key="genus:de" value="Kirsche" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Japanische Blütenkirsche (Prunus serrulata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Prunus serrulata" />
+    <key key="species:de" value="Japanische Blütenkirsche" />
+    <key key="species:wikidata" value="Q165321" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Birne (Pyrus sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Pyrus" />
+    <key key="genus:de" value="Birne" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Trauben-Eiche (Quercus petraea)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Quercus petraea" />
+    <key key="species:de" value="Trauben-Eiche" />
+    <key key="species:wikidata" value="Q158608" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Stiel-Eiche (Quercus robur)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Quercus robur" />
+    <key key="species:de" value="Stiel-Eiche" />
+    <key key="species:wikidata" value="Q165145" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Pyramiden-Eiche (Quercus robur 'Fastigiata')" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Quercus robur 'Fastigiata'" />
+    <key key="species:de" value="Pyramiden-Eiche" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Rot-Eiche (Quercus rubra)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Quercus rubra" />
+    <key key="species:de" value="Rot-Eiche" />
+    <key key="species:wikidata" value="Q147525" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Gewöhnliche Robinie (Robinia pseudoacacia)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Robinia pseudoacacia" />
+    <key key="species:de" value="Gewöhnliche Robinie" />
+    <key key="species:wikidata" value="Q157417" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Echte Mehlbeere (Sorbus aria)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Sorbus aria" />
+    <key key="species:de" value="Echte Mehlbeere" />
+    <key key="species:wikidata" value="Q157960" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Vogelbeere (Sorbus aucuparia)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Sorbus aucuparia" />
+    <key key="species:de" value="Vogelbeere" />
+    <key key="species:wikidata" value="Q146198" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Schwedische Mehlbeere (Sorbus intermedia)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Sorbus intermedia" />
+    <key key="species:de" value="Schwedische Mehlbeere" />
+    <key key="species:wikidata" value="Q27980" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Japanischer Schnurbaum (Styphnolobium japonicum)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Styphnolobium japonicum" />
+    <key key="species:de" value="Japanischer Schnurbaum" />
+    <key key="species:wikidata" value="Q288558" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Weide (Salix sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Salix" />
+    <key key="genus:de" value="Weide" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="dioecious" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Europäische Eibe (Taxus baccata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Taxus baccata" />
+    <key key="species:de" value="Europäische Eibe" />
+    <key key="species:wikidata" value="Q179729" />
+    <key key="leaf_cycle" value="evergreen" />
+    <key key="leaf_type" value="needleleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Linde (Tilia sp.)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="genus" value="Tilia" />
+    <key key="genus:de" value="Linde" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+</group>
+</presets>
