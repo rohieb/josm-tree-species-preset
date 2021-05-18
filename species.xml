@@ -497,5 +497,35 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Winter-Linde (Tilia cordata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Tilia cordata" />
+    <key key="species:de" value="Winter-Linde" />
+    <key key="species:wikidata" value="Q158746" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Sommer-Linde (Tilia platyphyllos)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Tilia platyphyllos" />
+    <key key="species:de" value="Sommer-Linde" />
+    <key key="species:wikidata" value="Q156831" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Silber-Linde (Tilia tomentosa)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Tilia tomentosa" />
+    <key key="species:de" value="Silber-Linde" />
+    <key key="species:wikidata" value="Q161382" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 </group>
 </presets>
