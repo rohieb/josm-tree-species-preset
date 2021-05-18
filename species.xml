@@ -164,9 +164,9 @@
     <reference ref="common_keys" />
 </item>
 
-<item name="Lederblättriger Weißdorn (Crataegus × lavallei)" icon="natural_tree_24020.png" type="node">
+<item name="Lederblättriger Weißdorn (Crataegus × lavalleei)" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
-    <key key="species" value="Crataegus × lavallei" />
+    <key key="species" value="Crataegus × lavalleei" />
     <key key="species:de" value="Lederblättriger Weißdorn" />
     <key key="species:wikidata" value="Q1693676" />
     <key key="leaf_cycle" value="deciduous" />
