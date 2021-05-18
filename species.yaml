@@ -70,6 +70,12 @@ Corylus colurna:
   - broadleaved
   - deciduous
 
+Crataegus laevigata:
+  - de: Zweigriffeliger Weißdorn
+  - wikidata: Q159553
+  - broadleaved
+  - deciduous
+
 "Crataegus laevigata 'Paul's Scarlet'":
   - de: Echter Rotdorn
   - wikidata: Q1281102
@@ -102,6 +108,18 @@ Fagus sylvatica f. purpurea:
 
 Fraxinus:
   - de: Esche
+  - broadleaved
+  - deciduous
+
+Fraxinus excelsior:
+  - de: Gemeine Esche
+  - wikidata: Q156907
+  - broadleaved
+  - deciduous
+
+Fraxinus ornus:
+  - de: Manna-Esche
+  - wikidata: Q161421
   - broadleaved
   - deciduous
 
@@ -145,6 +163,18 @@ Malus:
   - de: Apfel
   - deciduous
   - broadleaved
+
+Pinus nigra:
+  - de: Schwarz-Kiefer
+  - wikidata: Q145954
+  - needleleaved
+  - evergreen
+
+Pinus sylvestris:
+  - de: Wald-Kiefer
+  - wikidata: Q133128
+  - needleleaved
+  - evergreen
 
 Platanus × hispanica:
   - de: Ahornblättrige Platane

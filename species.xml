@@ -144,6 +144,16 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Zweigriffeliger Weißdorn (Crataegus laevigata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Crataegus laevigata" />
+    <key key="species:de" value="Zweigriffeliger Weißdorn" />
+    <key key="species:wikidata" value="Q159553" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 <item name="Echter Rotdorn (Crataegus laevigata 'Paul's Scarlet')" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
     <key key="species" value="Crataegus laevigata 'Paul's Scarlet'" />
@@ -198,6 +208,26 @@
     <key key="natural" value="tree" />
     <key key="genus" value="Fraxinus" />
     <key key="genus:de" value="Esche" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Gemeine Esche (Fraxinus excelsior)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Fraxinus excelsior" />
+    <key key="species:de" value="Gemeine Esche" />
+    <key key="species:wikidata" value="Q156907" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Manna-Esche (Fraxinus ornus)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Fraxinus ornus" />
+    <key key="species:de" value="Manna-Esche" />
+    <key key="species:wikidata" value="Q161421" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
@@ -269,6 +299,26 @@
     <key key="genus:de" value="Apfel" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Schwarz-Kiefer (Pinus nigra)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Pinus nigra" />
+    <key key="species:de" value="Schwarz-Kiefer" />
+    <key key="species:wikidata" value="Q145954" />
+    <key key="leaf_cycle" value="evergreen" />
+    <key key="leaf_type" value="needleleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Wald-Kiefer (Pinus sylvestris)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Pinus sylvestris" />
+    <key key="species:de" value="Wald-Kiefer" />
+    <key key="species:wikidata" value="Q133128" />
+    <key key="leaf_cycle" value="evergreen" />
+    <key key="leaf_type" value="needleleaved" />
     <reference ref="common_keys" />
 </item>
 
