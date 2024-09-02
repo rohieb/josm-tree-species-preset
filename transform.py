@@ -56,7 +56,7 @@ def escape(s):
 def main():
     output = HEADER_TEMPLATE
 
-    with open("species.yaml", "r") as f:
+    with open("tree-species.yaml", "r") as f:
         species = yaml.load(f, Loader=yaml.SafeLoader)
 
         for name, attrs in species.items():
