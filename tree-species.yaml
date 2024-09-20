@@ -40,11 +40,29 @@ Acer saccharinum:
   - deciduous
   - broadleaved
 
+Alnus japonica:
+  - de: Japanische Erle
+  - wikidata: Q1196169
+  - deciduous
+  - broadleaved
+
+Betula nigra:
+  - de: Schwarz-Birke
+  - wikidata: Q1510231
+  - broadleaved
+  - deciduous
+
 Betula pendula:
   - de: Hänge-Birke
   - wikidata: Q156895
   - broadleaved
   - deciduous
+
+Betula utilis:
+  - de: Himalaya-Birke
+  - wikidata: Q930814
+  - deciduous
+  - broadleaved
 
 Castanea sativa:
   - de: Edelkastanie
@@ -208,6 +226,12 @@ Pyrus:
   - de: Birne
   - deciduous
   - broadleaved
+
+Quercus palustris:
+  - de: Sumpf-Eiche
+  - wikidata: Q161253
+  - broadleaved
+  - deciduous
 
 Quercus petraea:
   - de: Trauben-Eiche

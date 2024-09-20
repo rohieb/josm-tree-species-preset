@@ -94,11 +94,41 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Japanische Erle (Alnus japonica)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Alnus japonica" />
+    <key key="species:de" value="Japanische Erle" />
+    <key key="species:wikidata" value="Q1196169" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Schwarz-Birke (Betula nigra)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Betula nigra" />
+    <key key="species:de" value="Schwarz-Birke" />
+    <key key="species:wikidata" value="Q1510231" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 <item name="Hänge-Birke (Betula pendula)" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
     <key key="species" value="Betula pendula" />
     <key key="species:de" value="Hänge-Birke" />
     <key key="species:wikidata" value="Q156895" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Himalaya-Birke (Betula utilis)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Betula utilis" />
+    <key key="species:de" value="Himalaya-Birke" />
+    <key key="species:wikidata" value="Q930814" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
@@ -374,6 +404,16 @@
     <key key="natural" value="tree" />
     <key key="genus" value="Pyrus" />
     <key key="genus:de" value="Birne" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Sumpf-Eiche (Quercus palustris)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Quercus palustris" />
+    <key key="species:de" value="Sumpf-Eiche" />
+    <key key="species:wikidata" value="Q161253" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
