@@ -443,6 +443,7 @@
     <key key="natural" value="tree" />
     <key key="species" value="Quercus robur 'Fastigiata'" />
     <key key="species:de" value="Pyramiden-Eiche" />
+    <key key="species:wikidata" value="Q2379170" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
