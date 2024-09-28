@@ -400,6 +400,17 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Kaukasische Flügelnuss (Pterocarya fraxinifolia)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Pterocarya fraxinifolia" />
+    <key key="species:de" value="Kaukasische Flügelnuss" />
+    <key key="species:en" value="Caucasian wingnut" />
+    <key key="species:wikidata" value="Q121749" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 <item name="Birne (Pyrus sp.)" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
     <key key="genus" value="Pyrus" />
