@@ -46,6 +46,12 @@ Alnus japonica:
   - deciduous
   - broadleaved
 
+Amelanchier lamarckii:
+  - de: Kupfer-Felsenbirne
+  - wikidata: Q161702
+  - deciduous
+  - broadleaved
+
 Betula nigra:
   - de: Schwarz-Birke
   - wikidata: Q1510231
@@ -153,6 +159,12 @@ Gleditsia triacanthos:
   - broadleaved
   - deciduous
 
+Gymnocladus dioicus:
+  - de: Geweihbaum
+  - wikidata: Q549418
+  - broadleaved
+  - deciduous
+
 Juglans regia:
   - de: Echte Walnuss
   - wikidata: Q46871
@@ -179,6 +191,18 @@ Liriodendron tulipifera:
 
 Malus:
   - de: Apfel
+  - deciduous
+  - broadleaved
+
+Malus baccata:
+  - de: Kirschapfel
+  - wikidata: Q1743596
+  - deciduous
+  - broadleaved
+
+Malus domestica:
+  - de: Kulturapfel
+  - wikidata: Q18674606
   - deciduous
   - broadleaved
 
@@ -308,6 +332,12 @@ Taxus baccata:
 
 Tilia:
   - de: Linde
+  - deciduous
+  - broadleaved
+
+Tilia americana:
+  - de: Amerikanische Linde
+  - wikidata: Q163981
   - deciduous
   - broadleaved
 

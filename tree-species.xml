@@ -104,6 +104,16 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Kupfer-Felsenbirne (Amelanchier lamarckii)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Amelanchier lamarckii" />
+    <key key="species:de" value="Kupfer-Felsenbirne" />
+    <key key="species:wikidata" value="Q161702" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 <item name="Schwarz-Birke (Betula nigra)" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
     <key key="species" value="Betula nigra" />
@@ -283,6 +293,16 @@
     <reference ref="common_keys" />
 </item>
 
+<item name="Geweihbaum (Gymnocladus dioicus)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Gymnocladus dioicus" />
+    <key key="species:de" value="Geweihbaum" />
+    <key key="species:wikidata" value="Q549418" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
 <item name="Echte Walnuss (Juglans regia)" icon="natural_tree_24020.png" type="node">
     <key key="natural" value="tree" />
     <key key="species" value="Juglans regia" />
@@ -327,6 +347,26 @@
     <key key="natural" value="tree" />
     <key key="genus" value="Malus" />
     <key key="genus:de" value="Apfel" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Kirschapfel (Malus baccata)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Malus baccata" />
+    <key key="species:de" value="Kirschapfel" />
+    <key key="species:wikidata" value="Q1743596" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Kulturapfel (Malus domestica)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Malus domestica" />
+    <key key="species:de" value="Kulturapfel" />
+    <key key="species:wikidata" value="Q18674606" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
@@ -544,6 +584,16 @@
     <key key="natural" value="tree" />
     <key key="genus" value="Tilia" />
     <key key="genus:de" value="Linde" />
+    <key key="leaf_cycle" value="deciduous" />
+    <key key="leaf_type" value="broadleaved" />
+    <reference ref="common_keys" />
+</item>
+
+<item name="Amerikanische Linde (Tilia americana)" icon="natural_tree_24020.png" type="node">
+    <key key="natural" value="tree" />
+    <key key="species" value="Tilia americana" />
+    <key key="species:de" value="Amerikanische Linde" />
+    <key key="species:wikidata" value="Q163981" />
     <key key="leaf_cycle" value="deciduous" />
     <key key="leaf_type" value="broadleaved" />
     <reference ref="common_keys" />
